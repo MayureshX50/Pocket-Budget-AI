@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Budget AI",
+  "description": "Personal finance app to track income, expenses, budgets, bills, and savings goals with smart insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
